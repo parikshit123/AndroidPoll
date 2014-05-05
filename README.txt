@@ -1,0 +1,2 @@
+A Simple Client-Server android app to support polling of questions.
+The app-users will get a questenaire in their phones,from a server which they have to answer, which will be recorded on the same server.
